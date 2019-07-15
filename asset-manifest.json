@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nlrphoto/static/css/main.2cce8147.chunk.css",
+    "main.js": "/nlrphoto/static/js/main.d45bcf04.chunk.js",
+    "main.js.map": "/nlrphoto/static/js/main.d45bcf04.chunk.js.map",
+    "runtime~main.js": "/nlrphoto/static/js/runtime~main.1423bcd4.js",
+    "runtime~main.js.map": "/nlrphoto/static/js/runtime~main.1423bcd4.js.map",
+    "static/js/2.b41502e9.chunk.js": "/nlrphoto/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/nlrphoto/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/nlrphoto/index.html",
+    "precache-manifest.8c98cbb82c454758758f4a06a2df502f.js": "/nlrphoto/precache-manifest.8c98cbb82c454758758f4a06a2df502f.js",
+    "service-worker.js": "/nlrphoto/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/nlrphoto/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/nlrphoto/static/media/logo.5d5d9eef.svg"
+  }
+}
