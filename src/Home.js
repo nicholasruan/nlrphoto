@@ -7,7 +7,7 @@ function Home() {
   return (
     <div className="App">
 		<Image src={require('./images/logo.png')} fluid id="title"/>
-			<p id="portfolio"><Link to='/places'>View Portfolio</Link></p>
+			<p id="portfolio"><Link to='/life'>View Portfolio</Link></p>
     </div>
   );
 }

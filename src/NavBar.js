@@ -8,7 +8,7 @@ function NavBar() {
   return (
     <div class="custom-navbar">
     <Navbar expand="lg">
-      <Navbar.Brand>NLRphoto</Navbar.Brand>
+      <Navbar.Brand><img src={require('./images/logonav.png')} id="logo"/></Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">

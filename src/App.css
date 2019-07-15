@@ -9,6 +9,10 @@
   pointer-events: none;
 }
 
+#logo {
+  width: 150px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -69,6 +73,35 @@ background: linear-gradient(to left, #d6d6d6, #ffffff); /* W3C, IE 10+/ Edge, Fi
 #portfolio a:hover {
   color: #b0b0b0;
   opacity: 1;
+}
+
+#carouselview {
+  position: relative;
+  margin: 2% auto 0 auto;
+  width: 65%;
+}
+
+#scrollview {
+  margin: 0 10px 10px 10px;
+}
+
+#scrollview img{
+  padding-top: 10px;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width : 1010px) {
+    #carouselview {
+        display: none;
+    }
+}
+
+@media only screen and (min-width : 1011px) {
+    #scrollview {
+        display: none;
+    }
 }
 
 
