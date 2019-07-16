@@ -9,7 +9,7 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={'/nlrphoto'}>
         <Switch>
           <Route path="/" exact component={Home}/>
           <Route path="/faces" exact component={Faces}/>
