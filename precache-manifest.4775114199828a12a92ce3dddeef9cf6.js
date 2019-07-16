@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdd168af247c315b7f52a9a922ff5ba7",
+    "revision": "496957e5da237104a9ebcde76697db76",
     "url": "/nlrphoto/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nlrphoto/static/css/2.a65581f3.chunk.css"
   },
   {
-    "revision": "beb1a70d7fe3e74bfa4f",
+    "revision": "526412374346aef607c9",
     "url": "/nlrphoto/static/css/main.39efa505.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nlrphoto/static/js/2.7e48150a.chunk.js"
   },
   {
-    "revision": "beb1a70d7fe3e74bfa4f",
-    "url": "/nlrphoto/static/js/main.7c5ecb6c.chunk.js"
+    "revision": "526412374346aef607c9",
+    "url": "/nlrphoto/static/js/main.b08b41be.chunk.js"
   },
   {
     "revision": "02022045581eddab3e9d",
